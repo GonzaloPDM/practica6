@@ -127,5 +127,3 @@ The workflow in `.github/workflows/ci.yml` triggers on every **push** and **pull
 ![CI/CD Estado](https://github.com/GonzaloPDM/Practica6/actions/workflows/ci.yml/badge.svg)
 
 ![Cobertura Jacoco](https://raw.githubusercontent.com/GonzaloPDM/Practica6/main/.github/badges/jacoco.svg)
-
-![Branches](https://raw.githubusercontent.com/GonzaloPDM/Practica6/main/.github/badges/branches.svg)
